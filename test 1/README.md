@@ -14,7 +14,7 @@ Descrição aqui
 
 1. Quantas pessoas tem no ```Job``` o título aparece ```Scientist```?
 
-1. Quantas pessoas tem ```American Express``` como CC Provider E fizeram compras acima de $95?
+1. Quantas pessoas tem ```American Express``` como ```CC Provider``` e fizeram compras acima de $95?
 
 1. Quais foram os 5 dominios mais populares (```gmail.com, yahoo.com```)?
 
