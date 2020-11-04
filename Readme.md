@@ -1,5 +1,44 @@
 # Data Science
 
+## Novo Teste
+
+### Pandas
+
+1. Importe a biblioteca Pandas as leia o arquivo Ecommerce Purchases.csv
+
+1. Quantas linhas e colunas o dataframe tem? Quais os datatypes?
+
+1. Quais foram os 5 Purchase Price mais altos e mais baixos?
+
+1. Quantas pessoas tem no Job o título aparece 'Scientist'?
+
+1. Quantas pessoas tem 'American Express' como CC Provider E fizeram compras acima de $95?
+
+1. Quais foram os 5 dominios mais populares (gmail.com, yahoo.com)? 
+
+
+
+### Machine learning ####
+
+1. Usando o dataset advertising.csv faça uma analise exploratória dos dados, coloque seus comentários e responda as perguntas abaixo.
+
+1. Crie um gráfico de dsitribuição com KDE do  "Daily Time spent on site" vs. "Age". Quais suas conclusões.
+
+Crie um pairplot com HUE definido como 'Clicked on Ad'.
+
+### Predição da variável resposta 'Clicked on Ad'
+
+1. Separe os dados de treino e teste.
+
+1. scolha o modelo de predição. Por que foram escolhidos esses modelos ? Explique resumidamente o que fazem.
+
+1. Calcule os erros dos modelos. Quais erros foram calculados, explique resumidamente o que eles representam. Plote a Curva ROC e Calcule o AUC.
+
+1. Escolha o melhor modelo. Explique o que é e aplique o Cross Validation com kfold = 10.
+
+1. Qual foi a média do erro obtido? 
+
+
 ## The problem - Consultation finishing time estimation at a clinic
 
 Here there is a model to predict the time a patient will leave a clinic, after having a \
@@ -26,7 +65,7 @@ days.
 
 ### Procedure
 
-1. Start a git clone repository with ```git clone https://github.com/stefanospindola/coding-test-ds.git```
+1. Start a git clone repository with ```git clone https://github.com/grupofleury-stefanospindola/data-science-test.git```
 
 ### Training tool usage
 
@@ -42,7 +81,7 @@ days.
 1. Run ```virtualenv env```
 1. Run ```. env/bin/activate``` (commands might differ depending on your OS)
 1. Run ```pip3 install -r requirements.txt```
-1. Run ```python3 evaluate.py data_test/```
+1. Run ```python3 evaluate.py data/```
 
 
 
