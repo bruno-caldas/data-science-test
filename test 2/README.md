@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Com o objetivo de avaliar algumas das competências importantes para essa posição, pedimos que realize um estudo de Ciências de Dados na linguagem Python proposto no problema abaixo.
+Com o objetivo de avaliar algumas das competências importantes para essa posição, pedimos que realize um estudo de Ciências de Dados na linguagem Python (versão 3 em diante) proposto no problema abaixo.
 
 ### Entregáveis
 
@@ -18,13 +18,13 @@ A solução para o problema proposto abaixo deve ser entregue com as seguintes c
 
 - Audio/Video (de 8min no máximo) ou Texto (também jupyter notebook/.py) com explicação da sua solução. 
 
-### Intruções para envio
+### Instruções para envio
 
- - Crie um repositório para a solução no seu ```github``` e faça upload dos entregáveis.
+ - Crie um repositório para a solução no seu ```https://github.com/``` e faça upload dos entregáveis.
 
- - Autorize o acesso ao seu projeto para o usuário ```grupofleury-stefanospindola``` e e-mail ```stefano.spindola@grupofleury.com.br```.
+ - Autorize o acesso ao seu projeto para o usuário ```grupofleury-datascience``` e siga as instruções enviado também em seu e-mail.
 
- - Envie também um e-mail no endereço ```pamela.ssilva@grupofleury.com.br``` avisando que finalizou o teste ou o link do seu projeto no ```github``` caso esteja publico para que possamos ter acesso.
+ - Em caso de dúvida entre em contato por e-mail.
 
 
 ## O problema - Probabilidade do não comparecimento dos pacientes na unidade de atendimento de exames clinicos.
@@ -38,9 +38,9 @@ Para ajudar a resolver este problema propomos um problema de classificação de 
 
 Os dados estão no arquivos seguinte:
 
--   dados.csv
+- dados.csv
 
-### Informações dos Atributos
+### Informações dos atributos
 
 - Dia semana agendamento: Dia da semana que o exame foi agendado
 
@@ -62,15 +62,15 @@ Os dados estão no arquivos seguinte:
 
 - Dia mes atendimento: Dia do mes do atendimento ao paciente
 
-- Secao: 
+- Secao: Seção que ira processar o exame ou expecialidade do exame
 
-- Medico preferencial:
+- Medico preferencial: Se o paciente solicitou um médico preferencial
 
 - Renda Provavel: Renda baseada na região do paciente
 
-- MicroArea: 
+- MicroArea: Micro região onde reside o paciente
 
-- Diretoria:
+- Diretoria: Se é um exame de imagem ou algum outro tipo de exame
 
 - Cod convenio: Código do convênio  
 
@@ -88,7 +88,7 @@ Os dados estão no arquivos seguinte:
 
 - No Show: A pessoa compareceu ou não no exame [label]
 
-### Com base nos dados fornecidos e outras fontes que achar confiáveis:
+### O que deve ter na sua solução com base nos dados fornecidos e outras fontes que achar confiáveis:
 
 -   Quais as ações podem reduzir a ocorrência do Noshow? 
 
@@ -105,6 +105,8 @@ Os dados estão no arquivos seguinte:
 -   Grave um audio/video (de 8 min no máximo) ou se preferir no texto (também Jupyter notebook ou .py) para nos enviar seus resutados e conclusões.
 
 ## Avaliação
+
+Após o envio da solução, avaliaremos sua solução e apresentação da mesma também pelo texto ou audio/video, portanto comente tudo que achar importante ou grave o audio/video (de 8 min no máximo) para complementar a apresentação da sua solução. O mais importante é a qualidade do que for feito e não a quantidade.
 
 
 
