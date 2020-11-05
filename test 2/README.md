@@ -14,11 +14,17 @@ Os dados estão no arquivos seguinte:
     *   dados.csv
 
 Com base nos dados fornecidos e outras fontes que achar confiáveis:
+
     *   Quais as ações podem reduzir a ocorrência do Noshow? 
+
     *   Quais os principais motivos do Noshow?
+
     *   Faça uma analise exploratória dos dados e comente o que você encontrou.
+
     *   Separe os dados para treino e teste, e faça a predição de quais agendamentos serão Noshow.
+
     *   Comente e explique as tecnicas utilizadas (porque utilizou elas?), os insights que ajudariam o negocio a reduzir o problema de Noshow a partir da sua análise exploratória e modelagem.
+    
     *   Grave um audio ou video ou texto (também Jupyter notebook ou .py) para nos enviar seus resutados e conclusões.
 
 ### Informações dos Atributos
@@ -72,7 +78,7 @@ Com base nos dados fornecidos e outras fontes que achar confiáveis:
 ### Entregáveis
 
 A solução para o problema proposto deve ser entregue com as seguintes caracteristicas:
-    
+
 
 
 ### Pandas
