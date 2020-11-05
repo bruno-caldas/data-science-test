@@ -42,7 +42,7 @@ Descrição aqui
 
 ### Procedure
 
-1. Start a git clone repository with ```git clone https://github.com/grupofleury-stefanospindola/data-science-test.git```
+1. Start a git clone repository with ```git clone https://github.com/grupofleury-datascience/data-science-test.git```
 
 ### Training tool usage
 
