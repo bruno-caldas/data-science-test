@@ -4,7 +4,7 @@
 
 Com o objetivo de avaliar algumas das competências importantes para essa posição, pedimos que realize um estudo de Ciências de Dados na linguagem Python proposto no problema abaixo.
 
-#### Entregáveis
+### Entregáveis
 
 A solução para o problema proposto abaixo deve ser entregue com as seguintes caracteristicas:
 
@@ -18,7 +18,7 @@ A solução para o problema proposto abaixo deve ser entregue com as seguintes c
 
 - Audio/Video (de 8min no máximo) ou Texto (também jupyter notebook/.py) com explicação da sua solução. 
 
-##### Intruções para envio
+### Intruções para envio
 
  - Crie um repositório para a solução no seu ```github``` e faça upload dos entregáveis.
 
@@ -40,7 +40,7 @@ Os dados estão no arquivos seguinte:
 
 -   dados.csv
 
-#### Informações dos Atributos
+### Informações dos Atributos
 
 - Dia semana agendamento: Dia da semana que o exame foi agendado
 
@@ -88,7 +88,7 @@ Os dados estão no arquivos seguinte:
 
 - No Show: A pessoa compareceu ou não no exame [label]
 
-#### Com base nos dados fornecidos e outras fontes que achar confiáveis:
+### Com base nos dados fornecidos e outras fontes que achar confiáveis:
 
 -   Quais as ações podem reduzir a ocorrência do Noshow? 
 
