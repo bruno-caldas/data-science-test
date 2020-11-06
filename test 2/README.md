@@ -14,9 +14,9 @@ A solução para o problema proposto abaixo deve ser entregue com as seguintes c
 
 - Sua solução deve poder ser re-executada em uma máquina local;
 
-- Melhores práticas de tecnologias, escrita de código, nomemclatura de variáveis e aquivos...etc;
+- Melhores práticas de tecnologias, escrita de código, nomenclatura de variáveis e aquivos...etc;
 
-- Audio/Video (de 8min no máximo) ou Texto (também jupyter notebook/.py) com explicação da sua solução. 
+- Áudio/Video (de 8min no máximo) ou Texto (também jupyter notebook/.py) com explicação da sua solução.
 
 ### Instruções para envio
 
@@ -29,13 +29,13 @@ A solução para o problema proposto abaixo deve ser entregue com as seguintes c
 
 ## O problema - Probabilidade do não comparecimento dos pacientes na unidade de atendimento de exames clinicos.
 
-Todos os agendamentos de exames são feitos previamente pelos canais de atendimento, como telefone ou mensagens. Um dos grandes problemas que atingem a maior parte das empresas de saúde é quando um paciente agenda um exame e não comparece, chamamos esse evento de Noshow.
+Todos os agendamentos de exames são feitos previamente pelos canais de atendimento, como telefone ou mensagens. Um dos grandes problemas que atingem a maior parte das empresas de saúde é quando o paciente agenda um exame e não comparece, chamamos esse evento de Noshow.
 
-Isso gera um grande transtorno nas atividade das unidades e um prejuizo enorme, com medicos e atendimento parado aguardando o paciente, mas também com custos referentes ao funcionamento da unidade.
+Isso gera um grande transtorno nas atividades das unidades e um prejuizo enorme com medicos, atendimento parado aguardando o paciente e com custos referentes ao funcionamento da unidade.
 
 Para ajudar a resolver este problema propomos um problema de classificação de Noshow, que consiste em determinar se o paciente ira comparecer ou não na unidade de atendimento para realizar o exame que ele agendou.
 
-Os dados estão no arquivos seguinte:
+Os dados estão no arquivo seguinte:
 
 - dados.csv
 
@@ -89,7 +89,7 @@ Os dados estão no arquivos seguinte:
 
 ### O que deve ter na sua solução com base nos dados fornecidos e outras fontes que achar confiáveis:
 
--   Quais as ações podem reduzir a ocorrência do Noshow? 
+-   Quais as ações podem reduzir a ocorrência do Noshow?
 
 -   Quais os principais motivos do Noshow?
 
@@ -97,15 +97,15 @@ Os dados estão no arquivos seguinte:
 
 -   Separe os dados para treino e teste, e faça a predição de quais agendamentos serão Noshow.
 
--   Comente e explique as tecnicas utilizadas (porque utilizou elas?), os insights que ajudariam o negocio a reduzir o problema de Noshow a partir da sua análise exploratória e modelagem.
+-   Comente e explique as técnicas utilizadas (porque utilizou elas?), os insights que ajudariam o negocio a reduzir o problema de Noshow a partir da sua análise exploratória e modelagem.
 
 -   Comente eventuais alertas sobre problemas, limitações potenciais encontradas ao longo do estudo, eventuais trade-offs, validação dos resultados obtidos e argumentos gerais sobre por que o resultado obtido é confiável.
 
--   Grave um audio/video (de 8 min no máximo) ou se preferir no texto (também Jupyter notebook ou .py) para nos enviar seus resutados e conclusões.
+-   Grave um áudio/video (de 8 min no máximo) ou se preferir no texto (também Jupyter notebook ou .py) para nos enviar seus resutados e conclusões.
 
 ## Avaliação
 
-Após o envio da solução, avaliaremos sua solução e apresentação da mesma também pelo texto ou audio/video, portanto comente tudo que achar importante ou grave o audio/video (de 8 min no máximo) para complementar a apresentação da sua solução. O mais importante é a qualidade do que for feito e não a quantidade.
+Após o envio da solução, avaliaremos sua solução e apresentação da mesma também pelo texto ou audio/video, portanto comente tudo que achar importante ou grave o áudio/video (de 8 min no máximo) para complementar a apresentação da sua solução. O mais importante é a qualidade do que for feito e não a quantidade.
 
 
 

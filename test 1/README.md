@@ -16,7 +16,7 @@ A solução para o problema proposto abaixo deve ser entregue com as seguintes c
 
 - Melhores práticas de tecnologias, escrita de código, nomemclatura de variáveis e aquivos...etc;
 
-- Audio/Video (de 8min no máximo) ou Texto (também jupyter notebook/.py) com explicação da sua solução.
+- Áudio/Video (de 8min no máximo) ou Texto (também jupyter notebook/.py) com explicação da sua solução.
 
 ### Instruções para envio
 
@@ -71,8 +71,8 @@ Os dados estão nos arquivos seguinte:
 
 1. Qual foi a média do erro obtido com o ```Cross Validation```?
 
-1. Grave um audio/video (de 8 min no máximo) ou se preferir no texto (também Jupyter notebook ou .py) para nos enviar seus resutados e conclusões.
+1. Grave um áudio/video (de 8 min no máximo) ou se preferir no texto (também Jupyter notebook ou .py) para nos enviar seus resutados e conclusões.
 
 ## Avaliação
 
-Após o envio da solução, avaliaremos sua solução e apresentação da mesma também pelo texto ou audio/video, portanto comente tudo que achar importante ou grave o audio/video (de 8 min no máximo) para complementar a apresentação da sua solução.
+Após o envio da solução, avaliaremos sua solução e apresentação da mesma também pelo texto ou áudio/video, portanto comente tudo que achar importante ou grave o áudio/video (de 8 min no máximo) para complementar a apresentação da sua solução.
