@@ -1,10 +1,41 @@
 # Data Science
 
-## O problema - 
+## Introdução
 
-Descrição aqui   
+Com o objetivo de avaliar algumas das competências importantes para essa posição, pedimos que realize um estudo de Ciências de Dados na linguagem Python (versão 3 em diante) proposto no problema abaixo.
 
-### Pandas
+### Entregáveis
+
+A solução para o problema proposto abaixo deve ser entregue com as seguintes caracteristicas:
+
+- Todos os arquivos necessários para reproduzir a solução (e.g notebooks, arquivos e etc.)
+
+- Arquivo de texto explicando como re-executar o estudo feito
+
+- Sua solução deve poder ser re-executada em uma máquina local
+
+- Melhores práticas de tecnologias, escrita de código, nomemclatura de variáveis e aquivos...etc.
+
+- Audio/Video (de 8min no máximo) ou Texto (também jupyter notebook/.py) com explicação da sua solução.
+
+### Instruções para envio
+
+ - Crie um repositório para a solução no seu ```https://github.com/``` e faça upload dos entregáveis.
+
+ - Autorize o acesso ao seu projeto para o usuário ```grupofleury-datascience``` e siga as instruções enviadas também em seu e-mail.
+
+ - Em caso de dúvida entre em contato por e-mail.
+
+## O problema
+
+Os dados estão no arquivos seguinte:
+
+- advertising.csv
+- Ecommerce Purchases.csv
+
+### Sua solução deve conter as etapas abaixo com base nos dados fornecidos
+
+#### Utilizando a biblioteca pandas
 
 1. Importe a biblioteca ```Pandas``` as leia o arquivo ```Ecommerce Purchases.csv```
 
@@ -18,7 +49,7 @@ Descrição aqui
 
 1. Quais foram os 5 dominios mais populares (```gmail.com, yahoo.com```)?
 
-### Machine learning
+#### Análise de dados
 
 1. Usando o dataset ```advertising.csv``` faça uma analise exploratória dos dados, coloque seus comentários e o que achou interessante em sua análise.
 
@@ -40,22 +71,8 @@ Descrição aqui
 
 1. Qual foi a média do erro obtido com o ```Cross Validation```?
 
-### Procedure
+1. Grave um audio/video (de 8 min no máximo) ou se preferir no texto (também Jupyter notebook ou .py) para nos enviar seus resutados e conclusões.
 
-1. Start a git clone repository with ```git clone https://github.com/grupofleury-datascience/data-science-test.git```
+## Avaliação
 
-### Training tool usage
-
-1. Install Python 3 and cd to the solution folder
-1. Run ```virtualenv env```
-1. Run ```. env/bin/activate``` (commands might differ depending on your OS)
-1. Run ```pip3 install -r requirements.txt```
-1. Run ```python3 train.py data/```
-
-### Evaluation tool usage
-
-1. Install Python 3 and cd to the solution folder
-1. Run ```virtualenv env```
-1. Run ```. env/bin/activate``` (commands might differ depending on your OS)
-1. Run ```pip3 install -r requirements.txt```
-1. Run ```python3 evaluate.py data/```
+Após o envio da solução, avaliaremos sua solução e apresentação da mesma também pelo texto ou audio/video, portanto comente tudo que achar importante ou grave o audio/video (de 8 min no máximo) para complementar a apresentação da sua solução.
