@@ -8,36 +8,36 @@ Com o objetivo de avaliar algumas das competências importantes para essa posiç
 
 A solução para o problema proposto abaixo deve ser entregue com as seguintes caracteristicas:
 
-- Todos os arquivos necessários para reproduzir a solução (e.g notebooks, arquivos e etc.)
+- Todos os arquivos necessários para reproduzir a solução (e.g notebooks, arquivos e etc.);
 
-- Arquivo de texto explicando como re-executar o estudo feito
+- Arquivo de texto explicando como re-executar o estudo feito;
 
-- Sua solução deve poder ser re-executada em uma máquina local
+- Sua solução deve poder ser re-executada em uma máquina local;
 
-- Melhores práticas de tecnologias, escrita de código, nomemclatura de variáveis e aquivos...etc.
+- Melhores práticas de tecnologias, escrita de código, nomemclatura de variáveis e aquivos...etc;
 
 - Audio/Video (de 8min no máximo) ou Texto (também jupyter notebook/.py) com explicação da sua solução.
 
 ### Instruções para envio
 
- - Crie um repositório para a solução no seu ```https://github.com/``` e faça upload dos entregáveis.
+ - Crie um repositório para a solução no seu ```https://github.com/``` e faça upload dos entregáveis;
 
- - Autorize o acesso ao seu projeto para o usuário ```grupofleury-datascience``` e siga as instruções enviadas também em seu e-mail.
+ - Autorize o acesso ao seu projeto para o usuário ```grupofleury-datascience``` e siga as instruções enviadas também em seu e-mail;
 
  - Em caso de dúvida entre em contato por e-mail.
 
 ## O problema
 
-Os dados estão no arquivos seguinte:
+Os dados estão nos arquivos seguinte:
 
 - advertising.csv
-- Ecommerce Purchases.csv
+- Ecommerce_Purchases.csv
 
 ### Sua solução deve conter as etapas abaixo com base nos dados fornecidos
 
 #### Utilizando a biblioteca pandas
 
-1. Importe a biblioteca ```Pandas``` as leia o arquivo ```Ecommerce Purchases.csv```
+1. Importe a biblioteca ```Pandas``` as leia o arquivo ```Ecommerce Purchases.csv```.
 
 1. Quantas linhas e colunas o dataframe tem? Quais os datatypes?
 
