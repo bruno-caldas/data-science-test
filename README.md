@@ -6,7 +6,7 @@ Este repositório é um fork do teste proposto para a vaga de cientista de dados
 
 Aqui está diponível um jupyter notebook na raiz chamado ```test2_bruno_caldas_solution.ipynb``` e um link do vídeo pedido com instruções adicionais:
 
-<https://www.youtube.com/>
+[https://www.youtube.com/](https://www.youtube.com/watch?v=phd1wvXccZo)
 
 A base de dados e o problema original pode ser encontrado na pasta ```test2_original```
 
